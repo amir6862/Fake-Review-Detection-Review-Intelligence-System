@@ -201,12 +201,3 @@ pytest tests/
 
 ---
 
-## License
-
-Choose a license for your repository (e.g. MIT) and add a `LICENSE` file — none is included by default.
-
----
-
-## Contributing
-
-Issues and pull requests are welcome. Please run `pytest tests/` before submitting a PR.
